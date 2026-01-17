@@ -1,0 +1,42 @@
+[
+  {
+    "code": "testcode",
+    "organizationId": 1,
+    "createdAt": "2025-01-01T00:00:00",
+    "expiresAt": "2027-12-31T00:00:00",
+    "maxUses": 999999,
+    "currentUses": 0
+  },
+  {
+    "code": "abcde",
+    "organizationId": 1,
+    "createdAt": "2025-01-01T00:00:00",
+    "expiresAt": "2025-01-02T00:00:00",
+    "maxUses": 1,
+    "currentUses": 1
+  },
+  {
+    "code": "abcdef",
+    "organizationId": 4,
+    "createdAt": "2025-01-01T00:00:00",
+    "expiresAt": "2025-01-02T00:00:00",
+    "maxUses": 1,
+    "currentUses": 1
+  },
+  {
+    "code": "fghil",
+    "organizationId": 2,
+    "createdAt": "2025-10-01T00:00:00",
+    "expiresAt": "2025-10-08T00:00:00",
+    "maxUses": 1,
+    "currentUses": 1
+  },
+  {
+    "code": "aaaaaaa",
+    "organizationId": 3,
+    "createdAt": "2025-10-01T00:00:00",
+    "expiresAt": "2025-10-08T00:00:00",
+    "maxUses": 1,
+    "currentUses": 1
+  }
+]

@@ -1,0 +1,738 @@
+{
+    "appTitle": "Inclusive Connect",
+    "@appTitle": {
+      "description": "The title of the application"
+    },
+    "createEventTitle": "Create Event",
+    "@createEventTitle": {
+      "description": "Title for the Create Event screen"
+    },
+    "appSubtitle": "Your Safe Space to Connect",
+    "@appSubtitle": {
+      "description": "The subtitle of the application in the welcome screen"
+    },
+    "appPresentation": "Join a supportive community designed for individuals with autism and the organizations that champion them. Be yourself, together.",
+    "@appPresentation": {
+      "description": "The presentation of the application in the welcome screen"
+    },
+    "joinAs": "Join as...",
+    "@joinAs": {
+      "description": "The join as option in the welcome screen"
+    },
+    "createAccount": "Create Account",
+    "@createAccount": {
+      "description": "The create account option in the welcome screen"
+    },
+    "login": "Login",
+    "@login": {
+      "description": "The login option in the welcome screen"
+    },
+    "alreadyAMember": "Already a member? Log in",
+    "@alreadyAMember": {
+      "description": "The already a member option in the welcome screen"
+    },
+    "member": "Member",
+    "@member": {
+      "description": "The member option name"
+    },
+    "organization": "Organization",
+    "@organization": {
+      "description": "The organization option name"
+    },
+    "welcomeBack": "Welcome back",
+    "@welcomeBack": {
+      "description": "The welcome back message in the login screen"
+    },
+    "pleaseEnterYourDetailsToSignIn": "Please enter your details to sign in.",
+    "@pleaseEnterYourDetailsToSignIn": {
+      "description": "The please enter your details to sign in message in the login screen"
+    },
+    "loginEmail": "Email",
+    "@loginEmail": {
+      "description": "The email label in the login screen"
+    },
+    "loginEmailHint": "Enter your email",
+    "@loginEmailHint": {
+      "description": "The email hint in the login screen"
+    },
+    "loginEmailEmptyError": "Please enter an email address",
+    "@loginEmailEmptyError": {
+      "description": "The email empty error in the login screen"
+    },
+    "loginPassword": "Password",
+    "@loginPassword": {
+      "description": "The password label in the login screen"
+    },
+    "loginPasswordHint": "Enter your password",
+    "@loginPasswordHint": {
+      "description": "The password hint in the login screen"
+    },
+    "loginPasswordEmptyError": "Please enter a password",
+    "@loginPasswordEmptyError": {
+      "description": "The password empty error in the login screen"
+    },
+    "loginButton": "Sign In",
+    "@loginButton": {
+      "description": "The login button in the login screen"
+    },
+    "forgotPassword": "Forgot Password?",
+    "@forgotPassword": {
+      "description": "The forgot password option in the login screen"
+    },
+    "loginFailed": "Login failed: invalid credentials",
+    "@loginFailed": {
+      "description": "The login failed message in the login screen"
+    },
+    "passwordsDoNotMatch": "Passwords do not match",
+    "@passwordsDoNotMatch": {
+      "description": "The passwords do not match message in the register screen"
+    },
+    "registrationSuccessful": "Registration successful! Please login.",
+    "@registrationSuccessful": {
+      "description": "The registration successful message in the register screen"
+    },
+    "registrationFailed": "Registration failed",
+    "@registrationFailed": {
+      "description": "The registration failed message in the register screen"
+    },
+    "joinWithInviteCode": "Join with Invite Code",
+    "@joinWithInviteCode": {
+      "description": "The join with invite code message in the register screen"
+    },
+    "pleaseEnterAValidInviteCode": "Please enter a valid invite code",
+    "@pleaseEnterAValidInviteCode": {
+      "description": "The please enter a valid invite code message in the register screen"
+    },
+    "backButton": "Back",
+    "@backButton": {
+      "description": "The back button in the register screen"
+    },
+    "continueButton": "Continue",
+    "@continueButton": {
+      "description": "The continue button in the register screen"
+    },
+    "registerButton": "Register",
+    "@registerButton": {
+      "description": "The register button in the register screen"
+    },
+    "inviteCodeInputTitle": "Invite Code",
+    "@inviteCodeInputTitle": {
+      "description": "The invite code input title in the register screen"
+    },
+    "inviteCodeInputLabel": "Enter Invite Code",
+    "@inviteCodeInputLabel": {
+      "description": "The invite code input label in the register screen"
+    },
+    "inviteCodeRequiredError": "Invite code is required",
+    "@inviteCodeRequiredError": {
+      "description": "The invite code required error in the register screen"
+    },
+    "inviteCodeInvalidError": "Invalid invite code",
+    "@inviteCodeInvalidError": {
+      "description": "The invite code invalid error in the register screen"
+    },
+    "checkCodeButton": "Check Code",
+    "@checkCodeButton": {
+      "description": "The check code button in the register screen"
+    },
+    "inviteCodeValid": "Invite code is valid",
+    "@inviteCodeValid": {
+      "description": "The invite code valid message in the register screen"
+    },
+    "accountDetailsTitle": "Account Details",
+    "@accountDetailsTitle": {
+      "description": "The account details title in the register screen"
+    },
+    "usernameLabel": "Username",
+    "@usernameLabel": {
+      "description": "The username label in the register screen"
+    },
+    "emailLabel": "Email",
+    "@emailLabel": {
+      "description": "The email label in the register screen"
+    },
+    "passwordLabel": "Password",
+    "@passwordLabel": {
+      "description": "The password label in the register screen"
+    },
+    "confirmPasswordLabel": "Confirm Password",
+    "@confirmPasswordLabel": {
+      "description": "The confirm password label in the register screen"
+    },
+    "bioLabel": "Bio (Optional)",
+    "@bioLabel": {
+      "description": "The bio label in the register screen"
+    },
+    "bioHint": "Tell us about yourself",
+    "@bioHint": {
+      "description": "The bio hint in the register screen"
+    },
+    "registerOrganizationScreenTitle": "Register Organization",
+    "@registerOrganizationScreenTitle": {
+      "description": "The register organization screen title"
+    },
+    "accountDetailsStepTitle": "Account Details",
+    "@accountDetailsStepTitle": {
+      "description": "The account details step title in the register organization screen"
+    },
+    "organizationNameLabel": "Organization Name",
+    "@organizationNameLabel": {
+      "description": "The organization name label in the register organization screen"
+    },
+    "addressStepTitle": "Address",
+    "@addressStepTitle": {
+      "description": "The address step title in the register organization screen"
+    },
+    "streetLabel": "Street",
+    "@streetLabel": {
+      "description": "The street label in the register organization screen"
+    },
+    "streetNumberLabel": "Street Number",
+    "@streetNumberLabel": {
+      "description": "The street number label in the register organization screen"
+    },
+    "cityLabel": "City",
+    "@cityLabel": {
+      "description": "The city label in the register organization screen"
+    },
+    "postalCodeLabel": "Postal Code",
+    "@postalCodeLabel": {
+      "description": "The postal code label in the register organization screen"
+    },
+    "provinceLabel": "Province",
+    "@provinceLabel": {
+      "description": "The province label in the register organization screen"
+    },
+    "countryLabel": "Country",
+    "@countryLabel": {
+      "description": "The country label in the register organization screen"
+    },
+    "fiscalDataStepTitle": "Fiscal Data",
+    "@fiscalDataStepTitle": {
+      "description": "The fiscal data step title in the register organization screen"
+    },
+    "fiscalCodeLabel": "Fiscal Code",
+    "@fiscalCodeLabel": {
+      "description": "The fiscal code label in the register organization screen"
+    },
+    "vatNumberLabel": "VAT Number",
+    "@vatNumberLabel": {
+      "description": "The VAT number label in the register organization screen"
+    },
+    "atecoCodeLabel": "ATECO Code (Optional)",
+    "@atecoCodeLabel": {
+      "description": "The ATECO code label in the register organization screen"
+    },
+    "accessibilitySettings": "Accessibility Settings",
+    "@accessibilitySettings": {
+      "description": "The accessibility settings in the settings screen"
+    },
+    "manageInviteCodesSettings": "Manage Invite Codes",
+    "@manageInviteCodesSettings": {
+      "description": "The manage invite codes settings in the settings screen"
+    },
+    "editProfile": "Edit Profile",
+    "@editProfile": {
+      "description": "The edit profile in the settings screen"
+    },
+    "shareProfile": "Share Profile",
+    "@shareProfile": {
+      "description": "The share profile in the settings screen"
+    },
+    "logout": "Logout",
+    "@logout": {
+      "description": "The logout in the settings screen"
+    },
+    "memberOfOrganization": "Member of Organization",
+    "@memberOfOrganization": {
+      "description": "The member of organization in the profile screen"
+    },
+    "profileBioLabel": "Bio",
+    "@profileBioLabel": {
+      "description": "The bio label in the profile screen"
+    },
+    "postsStats": "Posts",
+    "@postsStats": {
+      "description": "The posts stats in the profile screen"
+    },
+    "followersStats": "Followers",
+    "@followersStats": {
+      "description": "The followers stats in the profile screen"
+    },
+    "followingStats": "Following",
+    "@followingStats": {
+      "description": "The following stats in the profile screen"
+    },
+    "postsProfileSectionTitle": "Posts",
+    "@postsProfileSectionTitle": {
+      "description": "The posts profile section title in the profile screen"
+    },
+    "failedToUpdateLike": "Failed to update like",
+    "@failedToUpdateLike": {
+      "description": "The failed to update like message in the post card"
+    },
+    "simplificationFailed": "Failed to simplify text",
+    "@simplificationFailed": {
+      "description": "The simplification failed message in the post card"
+    },
+    "justNow": "Just now",
+    "@justNow": {
+      "description": "The just now message in the post card"
+    },
+    "posted": "posted",
+    "@posted": {
+      "description": "The TTS posted message in the post card"
+    },
+    "simplifiedTextLabel": "Simplified",
+    "@simplifiedTextLabel": {
+      "description": "The simplified text label in the post card"
+    },
+    "simplifyContentButtonTooltip": "Simplify content",
+    "@simplifyContentButtonTooltip": {
+      "description": "The simplify content button tooltip in the post card"
+    },
+    "postDetailsScreenTitle": "Post",
+    "@postDetailsScreenTitle": {
+      "description": "The post details screen title"
+    },
+    "createPostButtonTitle": "Create Post",
+    "@createPostButtonTitle": {
+      "description": "The create post button title in the main shell"
+    },
+    "createEventButtonTitle": "Create Event",
+    "@createEventButtonTitle": {
+      "description": "The create event button title in the main shell"
+    },
+    "communityFeedTitle": "Community Feed",
+    "@communityFeedTitle": {
+      "description": "The community feed title in the home screen"
+    },
+    "allPostsChipTitle": "All Posts",
+    "@allPostsChipTitle": {
+      "description": "The all posts chip title in the home screen"
+    },
+    "trendingChipTitle": "Trending",
+    "@trendingChipTitle": {
+      "description": "The trending chip title in the home screen"
+    },
+    "sensoryFriendlyChipTitle": "Sensory Friendly",
+    "@sensoryFriendlyChipTitle": {
+      "description": "The sensory friendly chip title in the home screen"
+    },
+    "meetupsChipTitle": "Meetups",
+    "@meetupsChipTitle": {
+      "description": "The meetups chip title in the home screen"
+    },
+    "qaChipTitle": "Q&A",
+    "@qaChipTitle": {
+      "description": "The Q&A chip title in the home screen"
+    },
+    "errorLoadingFeed": "Error loading feed",
+    "@errorLoadingFeed": {
+      "description": "The error loading feed message in the home screen"
+    },
+    "noPostsFound": "No posts found",
+    "@noPostsFound": {
+      "description": "The no posts found message in the home screen"
+    },
+    "retryButton": "Retry",
+    "@retryButton": {
+      "description": "The retry button in the home screen"
+    },
+    "eventDetailsTitle": "Event Details",
+    "@eventDetailsTitle": {
+      "description": "The event details title in the event details screen"
+    },
+    "organizedBy": "Organized by",
+    "@organizedBy": {
+      "description": "The organized by label in the event details screen"
+    },
+    "aboutThisEvent": "About this event",
+    "@aboutThisEvent": {
+      "description": "The about this event label in the event details screen"
+    },
+    "createEventFillAllFieldsError": "Please fill all fields",
+    "@createEventFillAllFieldsError": {
+      "description": "The create event fill all fields error in the create event screen"
+    },
+    "createEventOrganizationError": "Only organizations can create events",
+    "@createEventOrganizationError": {
+      "description": "The create event organization error in the create event screen"
+    },
+    "createEventSuccess": "Event created successfully!",
+    "@createEventSuccess": {
+      "description": "The create event success message in the create event screen"
+    },
+    "createEventFailed": "Failed to create event",
+    "@createEventFailed": {
+      "description": "The create event failed message in the create event screen"
+    },
+    "createEventCreateButton": "Create",
+    "@createEventCreateButton": {
+      "description": "The create event create button in the create event screen"
+    },
+    "createEventTitleInputLabel": "Event Title",
+    "@createEventTitleInputLabel": {
+      "description": "The create event title input label in the create event screen"
+    },
+    "createEventDateInputLabel": "Select Date",
+    "@createEventDateInputLabel": {
+      "description": "The create event date input label in the create event screen"
+    },
+    "createEventTimeInputLabel": "Select Time",
+    "@createEventTimeInputLabel": {
+      "description": "The create event time input label in the create event screen"
+    },
+    "createEventLocationInputLabel": "Location",
+    "@createEventLocationInputLabel": {
+      "description": "The create event location input label in the create event screen"
+    },
+    "createEventDescriptionInputLabel": "Description",
+    "@createEventDescriptionInputLabel": {
+      "description": "The create event description input label in the create event screen"
+    },
+    "createEventDescriptionInputPlaceholder": "Description",
+    "@createEventDescriptionInputPlaceholder": {
+      "description": "The create event description input placeholder in the create event screen"
+    },
+    "createEventDescriptionInputHint": "Description",
+    "@createEventDescriptionInputHint": {
+      "description": "The create event description input hint in the create event screen"
+    },
+    "displayNameLabel": "Display Name",
+    "@displayNameLabel": {
+      "description": "The display name label in the edit profile screen"
+    },
+    "displayNameRequiredError": "Please enter a display name",
+    "@displayNameRequiredError": {
+      "description": "The display name required error in the edit profile screen"
+    },
+    "bioLabel": "Bio",
+    "@bioLabel": {
+      "description": "The bio label in the edit profile screen"
+    },
+    "profileUpdatedSuccessfully": "Profile updated successfully!",
+    "@profileUpdatedSuccessfully": {
+      "description": "The profile updated successfully message in the edit profile screen"
+    },
+    "profileUpdateFailed": "Failed to update profile",
+    "@profileUpdateFailed": {
+      "description": "The profile update failed message in the edit profile screen"
+    },
+    "discoverScreenTitle": "Discover",
+    "@discoverScreenTitle": {
+      "description": "The discover screen title"
+    },
+    "searchPeopleOrganizations": "Search people, organizations...",
+    "@searchPeopleOrganizations": {
+      "description": "The search people organizations hint in the discover screen"
+    },
+    "discoverOrganizationsSectionTitle": "Organizations",
+    "@discoverOrganizationsSectionTitle": {
+      "description": "The discover organizations section title in the discover screen"
+    },
+    "noOrganizationsFound": "No organizations found.",
+    "@noOrganizationsFound": {
+      "description": "The no organizations found message in the discover screen"
+    },
+    "followFeatureComingSoon": "Follow feature coming soon!",
+    "@followFeatureComingSoon": {
+      "description": "The follow feature coming soon message in the discover screen"
+    },
+    "follow": "Follow",
+    "@follow": {
+      "description": "The follow button in the discover screen"
+    },
+    "discoverMembersSectionTitle": "Members",
+    "@discoverMembersSectionTitle": {
+      "description": "The discover members section title in the discover screen"
+    },
+    "noMembersFound": "No members found.",
+    "@noMembersFound": {
+      "description": "The no members found message in the discover screen"
+    },
+    "connectFeatureComingSoon": "Connect feature coming soon!",
+    "@connectFeatureComingSoon": {
+      "description": "The connect feature coming soon message in the discover screen"
+    },
+    "connect": "Connect",
+    "@connect": {
+      "description": "The connect button in the discover screen"
+    },
+    "analyzeToneWriteAtLeastOneWord": "Write at least a few words...",
+    "@analyzeToneWriteAtLeastOneWord": {
+      "description": "The analyze tone write at least one word message in the create post screen"
+    },
+    "analyzeToneButton": "Analizza Tono",
+    "@analyzeToneButton": {
+      "description": "The analyze tone button in the create post screen"
+    },
+    "newPostTitle": "Title",
+    "@newPostTitle": {
+      "description": "The new post title in the create post screen"
+    },
+    "submitPostFillAllFields": "Fill all fields",
+    "@submitPostFillAllFields": {
+      "description": "The submit post fill all fields message in the create post screen"
+    },
+    "postCreatedSuccessfully": "Post created successfully!",
+    "@postCreatedSuccessfully": {
+      "description": "The post created successfully message in the create post screen"
+    },
+    "postCreationFailed": "Failed to create post",
+    "@postCreationFailed": {
+      "description": "The post creation failed message in the create post screen"
+    },
+    "newPostTitleHint": "Title",
+    "@newPostTitleHint": {
+      "description": "The new post title hint in the create post screen"
+    },
+    "newPostBodyHint": "What do you want to share?",
+    "@newPostBodyHint": {
+      "description": "The new post body hint in the create post screen"
+    },
+    "newPostActionButtonPost": "Post",
+    "@newPostActionButtonPost": {
+      "description": "The new post action button post in the create post screen"
+    },
+    "altText": "ALT",
+    "@altText": {
+      "description": "The alt text in the create post screen"
+    },
+    "communityEventsTitle": "Community Events",
+    "@communityEventsTitle": {
+      "description": "The community events title in the community screen"
+    },
+    "noEventsFound": "No events found.",
+    "@noEventsFound": {
+      "description": "The no events found message in the community screen"
+    },
+    "accessibilitySettingsTitle": "Accessibility Settings",
+    "@accessibilitySettingsTitle": {
+      "description": "The accessibility settings title in the accessibility settings screen"
+    },
+    "visibilitySettingsTitle": "Visibility Settings",
+    "@visibilitySettingsTitle": {
+      "description": "The visibility settings title in the accessibility settings screen"
+    },
+    "highContrastSettingTitle": "High Contrast",
+    "@highContrastSettingTitle": {
+      "description": "The high contrast setting title in the accessibility settings screen"
+    },
+    "highContrastSettingSubtitle": "Use high contrast colors (Yellow on Black)",
+    "@highContrastSettingSubtitle": {
+      "description": "The high contrast setting subtitle in the accessibility settings screen"
+    },
+    "typographySettingsTitle": "Typography Settings",
+    "@typographySettingsTitle": {
+      "description": "The typography settings title in the accessibility settings screen"
+    },
+    "typographySettingsLabelTitle": "Dyslexia-Friendly Font",
+    "@typographySettingsLabelTitle": {
+      "description": "The typography settings label title in the accessibility settings screen"
+    },
+    "typographySettingsLabelSubtitle": "Use dyslexia-friendly font",
+    "@typographySettingsLabelSubtitle": {
+      "description": "The typography settings label subtitle in the accessibility settings screen"
+    },
+    "ttsSettingsTitle": "Text-to-Speech Settings",
+    "@ttsSettingsTitle": {
+      "description": "The TTS settings title in the accessibility settings screen"
+    },
+    "ttsSettingsItalianLanguageNotDetected": "Italian language not detected!",
+    "@ttsSettingsItalianLanguageNotDetected": {
+      "description": "The TTS settings Italian language not detected message in the accessibility settings screen"
+    },
+    "ttsSettingsInstallItalianLanguage": "For a better experience, install italian language",
+    "@ttsSettingsInstallItalianLanguage": {
+      "description": "The TTS settings install Italian language message in the accessibility settings screen"
+    },
+    "ttsSettingsInstallItalianLanguageButtonLabel": "Install Now",
+    "@ttsSettingsInstallItalianLanguageButtonLabel": {
+      "description": "The TTS settings install Italian language button label in the accessibility settings screen"
+    },
+    "ttsSettingsTestButtonLabel": "Listen Settings",
+    "@ttsSettingsTestButtonLabel": {
+      "description": "The TTS settings test button label in the accessibility settings screen"
+    },
+    "testComponentsTitle": "Test Components",
+    "@testComponentsTitle": {
+      "description": "The test components title in the accessibility settings screen"
+    },
+    "testComponentsButtonLabel": "Test Button",
+    "@testComponentsButtonLabel": {
+      "description": "The test components button label in the accessibility settings screen"
+    },
+    "ttsSettingsSpeechRateLabel": "Speech Rate",
+    "@ttsSettingsSpeechRateLabel": {
+      "description": "The TTS settings speech rate label in the accessibility settings screen"
+    },
+    "typographySettingsTextSizeLabel": "Text Size",
+    "@typographySettingsTextSizeLabel": {
+      "description": "The typography settings text size label in the accessibility settings screen"
+    },
+    "ttsSettingsPitchLabel": "Pitch",
+    "@ttsSettingsPitchLabel": {
+      "description": "The TTS settings pitch label in the accessibility settings screen"
+    },
+    "inviteCodeGeneratedSuccessfully": "Invite code generated successfully!",
+    "@inviteCodeGeneratedSuccessfully": {
+      "description": "The invite code generated successfully message in the invite codes screen"
+    },
+    "inviteCodeGenerationFailed": "Failed to generate invite code",
+    "@inviteCodeGenerationFailed": {
+      "description": "The invite code generation failed message in the invite codes screen"
+    },
+    "inviteCodeRevokedSuccessfully": "Invite code revoked successfully!",
+    "@inviteCodeRevokedSuccessfully": {
+      "description": "The invite code revoked successfully message in the invite codes screen"
+    },
+    "inviteCodeRevocationFailed": "Failed to revoke invite code",
+    "@inviteCodeRevocationFailed": {
+      "description": "The invite code revocation failed message in the invite codes screen"
+    },
+    "inviteCodesScreenTitle": "Invite Codes",
+    "@inviteCodesScreenTitle": {
+      "description": "The invite codes screen title"
+    },
+    "inviteCodesScreenRefreshed": "List updated",
+    "@inviteCodesScreenRefreshed": {
+      "description": "The invite codes screen refreshed message"
+    },
+    "inviteCodesScreenRefreshTooltip": "Refresh",
+    "@inviteCodesScreenRefreshTooltip": {
+      "description": "The invite codes screen refresh tooltip"
+    },
+    "inviteCodesScreenGenerateTooltip": "Generate new code",
+    "@inviteCodesScreenGenerateTooltip": {
+      "description": "The invite codes screen generate tooltip"
+    },
+    "inviteCodesScreenError": "Error when loading invite codes",
+    "@inviteCodesScreenError": {
+      "description": "The invite codes screen error message"
+    },
+    "inviteCodesScreenNoCodesGenerated": "No invite codes generated",
+    "@inviteCodesScreenNoCodesGenerated": {
+      "description": "The invite codes screen no codes generated message"
+    },
+    "inviteCodesScreenCopiedToClipboard": "Code copied to clipboard",
+    "@inviteCodesScreenCopiedToClipboard": {
+      "description": "The invite codes screen copied to clipboard message"
+    },
+    "inviteCodesScreenCreatedAt": "Created at",
+    "@inviteCodesScreenCreatedAt": {
+      "description": "The invite codes screen created at message"
+    },
+    "inviteCodesScreenMaxUses": "Max uses",
+    "@inviteCodesScreenMaxUses": {
+      "description": "The invite codes screen max uses message"
+    },
+    "inviteCodesScreenCurrentUses": "Current uses",
+    "@inviteCodesScreenCurrentUses": {
+      "description": "The invite codes screen current uses message"
+    },
+    "inviteCodesScreenInvalid": "Invalid",
+    "@inviteCodesScreenInvalid": {
+      "description": "The invite codes screen invalid message"
+    },
+    "inviteCodesScreenUses": "Uses",
+    "@inviteCodesScreenUses": {
+      "description": "The invite codes screen uses message"
+    },
+    "inviteCodesScreenExpired": "Expired",
+    "@inviteCodesScreenExpired": {
+      "description": "The invite codes screen expired message"
+    },
+    "inviteCodesScreenFullyUsed": "Fully used",
+    "@inviteCodesScreenFullyUsed": {
+      "description": "The invite codes screen fully used message"
+    },
+    "inviteCodesScreenRevokeTooltip": "Revoke code",
+    "@inviteCodesScreenRevokeTooltip": {
+      "description": "The invite codes screen revoke tooltip"
+    },
+    "inviteCodesScreenRevokeTitle": "Revoke code",
+    "@inviteCodesScreenRevokeTitle": {
+      "description": "The invite codes screen revoke title"
+    },
+    "inviteCodesScreenRevokeCodeCancel": "Cancel",
+    "@inviteCodesScreenRevokeCodeCancel": {
+      "description": "The invite codes screen revoke code cancel"
+    },
+    "inviteCodesScreenRevokeCodeConfirm": "Confirm",
+    "@inviteCodesScreenRevokeCodeConfirm": {
+      "description": "The invite codes screen revoke code confirm"
+    },
+    "inviteCodesScreenRevokeCodeConfirmText": "Are you sure you want to revoke the code? This action cannot be undone.",
+    "@inviteCodesScreenRevokeCodeConfirmText": {
+      "description": "The invite codes screen revoke code confirm text"
+    },
+    "communityScreenFiltersTitle": "Filters",
+    "@communityScreenFiltersTitle": {
+      "description": "The community screen filters title"
+    },
+    "communityScreenCityLabel": "City",
+    "@communityScreenCityLabel": {
+      "description": "The community screen city label"
+    },
+    "communityScreenDistanceLabel": "Distance",
+    "@communityScreenDistanceLabel": {
+      "description": "The community screen distance label"
+    },
+    "communityScreenApplyFilterButton": "Apply Filter",
+    "@communityScreenApplyFilterButton": {
+      "description": "The community screen apply filter button"
+    },
+    "followButton": "Follow",
+    "@followButton": {
+        "description": "Buttton to follow a user"
+    },
+    "unfollowButton": "Unfollow",
+    "@unfollowButton": {
+        "description": "Button to unfollow a user"
+    },
+    "addFriendButton": "Add Friend",
+    "@addFriendButton": {
+        "description": "Button to request friendship"
+    },
+    "friendButton": "Friend",
+    "@friendButton": {
+        "description": "Button indicating friendship status"
+    },
+    "requestedButton": "Requested",
+    "@requestedButton": {
+        "description": "Button indicating a sent friend request"
+    },
+    "acceptRequestButton": "Accept Request",
+    "@acceptRequestButton": {
+        "description": "Button to accept a friend request"
+    },
+    "failedToPostCommentSnackBarText": "Failed to post comment",
+    "@failedToPostCommentSnackBarText": {
+        "description": "Snack bar that shows up when posting the comment has failed"
+    },
+    "commentsSectionTitle": "Comments",
+    "@commentsSectionTitle": {
+        "description": "Title of the comments section"
+    },
+    "smartRepliesLoadingText": "Smart replies loading...",
+    "@smartRepliesLoadingText": {
+        "description": "Text shown when loading smart replies"
+    },
+    "addCommentHintText": "Add a comment...",
+    "@addCommentHintText": {
+        "description": "Hint text for the comment input"
+    },
+    "noCommentsText": "No comments yet. Be the first!",
+    "@noCommentsText": {
+        "description": "Text shown when there are no comments"
+    },
+    "failedToGenerateAltText": "Failed to generate alt text",
+    "@failedToGenerateAltText": {
+        "description": "Text shown when alt text generation fails"
+    },
+    "loadingAltTextLoadingText": "Generating alt text for the image...",
+    "@loadingAltTextLoadingText": {
+        "description": "Text shown when loading alt text"
+    }
+}

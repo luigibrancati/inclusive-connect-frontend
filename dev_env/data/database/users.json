@@ -1,0 +1,294 @@
+[
+  {
+    "userId": 1,
+    "userType": "organization",
+    "username": "Organizzazione a Reggio",
+    "email": "orgreggiocal@org.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "profilePicUrl": "profile-pics/user-1/image.jpg",
+    "residentialData": {
+      "street": "Via Gaspare del Fosso",
+      "streetNumber": 30,
+      "city": "Reggio Calabria",
+      "postalCode": 89127,
+      "province": "RC",
+      "country": "Italy"
+    },
+    "geospatialData": {
+      "formatted_address": "Via Gaspare del Fosso 30, 89127 Reggio Calabria (RC), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          15.6411557,
+          38.1044886
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "fiscalData": {
+      "fiscalCode": "string",
+      "vatNumber": "string",
+      "atecoCode": "string"
+    },
+    "createdAt": "2025-01-01T00:00:00",
+    "lastModifiedAt": "2025-01-01T00:00:00"
+  },
+  {
+    "userId": 2,
+    "userType": "organization",
+    "username": "Organizzazione a Torino",
+    "email": "orgtorino@org.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "profilePicUrl": "profile-pics/user-2/image.jpg",
+    "residentialData": {
+      "street": "Via Leonardo da Vinci",
+      "streetNumber": 26,
+      "city": "Torino",
+      "postalCode": 10126,
+      "province": "TO",
+      "country": "Italy"
+    },
+    "geospatialData": {
+      "formatted_address": "Via Leonardo da Vinci 26, 10126 Torino (TO), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          7.6706813,
+          45.0435376
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "fiscalData": {
+      "fiscalCode": "string",
+      "vatNumber": "string",
+      "atecoCode": "string"
+    },
+    "createdAt": "2025-01-01T00:00:00",
+    "lastModifiedAt": "2025-01-01T00:00:00"
+  },
+  {
+    "userId": 3,
+    "userType": "organization",
+    "username": "Organizzazione a Milano",
+    "email": "orgmilano@org.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "profilePicUrl": "profile-pics/user-3/image.jpg",
+    "residentialData": {
+      "street": "Via Santa Rita da Cascia",
+      "streetNumber": 67,
+      "city": "Milano",
+      "postalCode": 20143,
+      "province": "MI",
+      "country": "Italy"
+    },
+    "geospatialData": {
+      "formatted_address": "Via Santa Rita da Cascia 67, 20143 Milano (MI), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          9.1540762,
+          45.4381909
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "fiscalData": {
+      "fiscalCode": "string",
+      "vatNumber": "string",
+      "atecoCode": "string"
+    },
+    "createdAt": "2025-01-01T00:00:00",
+    "lastModifiedAt": "2025-01-01T00:00:00"
+  },
+  {
+    "userId": 4,
+    "userType": "organization",
+    "username": "Organizzazione 2 a Reggio",
+    "email": "orgreggiocal2@org.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "profilePicUrl": "profile-pics/user-4/image.jpg",
+    "residentialData": {
+      "street": "Via Torrione",
+      "streetNumber": 30,
+      "city": "Reggio Calabria",
+      "postalCode": 89126,
+      "province": "RC",
+      "country": "Italy"
+    },
+    "geospatialData": {
+      "formatted_address": "Via Torrione 30, 89126 Reggio Calabria (RC), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          15.6494575,
+          38.1116031
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "fiscalData": {
+      "fiscalCode": "string",
+      "vatNumber": "string",
+      "atecoCode": "string"
+    },
+    "createdAt": "2025-01-01T00:00:00",
+    "lastModifiedAt": "2025-02-01T00:00:00"
+  },
+  {
+    "userId": 5,
+    "userType": "member",
+    "username": "Utente a Reggio",
+    "email": "userreggio@user.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "inviteCode": "abcde",
+    "profilePicUrl": "profile-pics/user-5/image.jpg",
+    "residentialData": {
+      "street": "Via Gaspare del Fosso",
+      "streetNumber": 10,
+      "city": "Reggio Calabria",
+      "postalCode": 89127,
+      "province": "RC",
+      "country": "Italy"
+    },
+    "organizationId": 1,
+    "geospatialData": {
+      "formatted_address": "Via Gaspare del Fosso 10, 89127 Reggio Calabria (RC), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          15.6413464,
+          38.1051067
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "createdAt": "2025-10-01T00:00:00",
+    "lastModifiedAt": "2025-12-01T00:00:00"
+  },
+  {
+    "userId": 6,
+    "userType": "member",
+    "username": "Utente a Reggio 2",
+    "email": "userreggio2@user.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "inviteCode": "abcdef",
+    "profilePicUrl": "profile-pics/user-6/image.jpg",
+    "residentialData": {
+      "street": "Via Gaspare del Fosso",
+      "streetNumber": 11,
+      "city": "Reggio Calabria",
+      "postalCode": 89127,
+      "province": "RC",
+      "country": "Italy"
+    },
+    "organizationId": 4,
+    "geospatialData": {
+      "formatted_address": "Via Gaspare del Fosso 11, 89127 Reggio Calabria (RC), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          15.6413464,
+          38.1051067
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "createdAt": "2025-10-01T00:00:00",
+    "lastModifiedAt": "2025-11-01T00:00:00"
+  },
+  {
+    "userId": 7,
+    "userType": "member",
+    "username": "Utente a Torino",
+    "email": "usertorino@user.com",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "inviteCode": "fghil",
+    "profilePicUrl": "profile-pics/user-7/image.jpg",
+    "residentialData": {
+      "street": "Via Leonardo da Vinci",
+      "streetNumber": 30,
+      "city": "Torino",
+      "postalCode": 10126,
+      "province": "TO",
+      "country": "Italy"
+    },
+    "organizationId": 2,
+    "geospatialData": {
+      "formatted_address": "Via Leonardo da Vinci 30, 10126 Torino (TO), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          7.67086,
+          45.0433189
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "createdAt": "2025-10-01T00:00:00",
+    "lastModifiedAt": "2025-10-10T00:00:00"
+  },
+  {
+    "userId": 8,
+    "userType": "member",
+    "username": "Utente a Milano",
+    "email": "usermilano@user.com",
+    "password": "12345",
+    "inviteCode": "aaaaaaa",
+    "profilePicUrl": "profile-pics/user-8/image.jpg",
+    "residentialData": {
+      "street": "Via Fratelli Castiglioni",
+      "streetNumber": 8,
+      "city": "Milano",
+      "postalCode": 20124,
+      "province": "MI",
+      "country": "Italy"
+    },
+    "organizationId": 3,
+    "geospatialData": {
+      "formatted_address": "Via Fratelli Castiglioni 8, 20124 Milano (MI), Italy",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          9.189905571164571,
+          45.48306482483553
+        ]
+      },
+      "metadata": {
+        "geocoding_provider": "google maps api",
+        "geocoding_datetime": "2025-01-01T00:00:00",
+        "geocoding_confidence": 1
+      }
+    },
+    "createdAt": "2025-10-01T00:00:00",
+    "lastModifiedAt": "2025-10-11T00:00:00"
+  }
+]
