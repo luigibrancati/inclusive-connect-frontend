@@ -4,16 +4,16 @@ workflows:
     max_build_duration: 120
     instance_type: mac_mini_m2
     integrations:
-      app_store_connect: codemagic
+      app_store_connect: InclusiveConnect
     environment:
       ios_signing:
-        distribution_type: app_store
-        bundle_identifier: io.codemagic.sample.iosnative
+        distribution_type: ad_hoc
+        bundle_identifier: com.example.inclusiveConnect
       vars:
-        BUNDLE_ID: "io.codemagic.sample.iosnative"
-        XCODE_WORKSPACE: "Runner.xcworkspace" # <-- Put the name of your Xcode workspace here
-        XCODE_SCHEME: "Runner" # <-- Put the name of your Xcode scheme here
-        APP_STORE_APPLE_ID: 1555555551
+        BUNDLE_ID: "com.example.inclusiveConnect"
+        XCODE_WORKSPACE: "Runner.xcworkspace"
+        XCODE_SCHEME: "Runner"
+        APP_STORE_APPLE_ID: 6757953337
       xcode: latest
       cocoapods: default
     scripts:
@@ -21,7 +21,7 @@ workflows:
         script: | 
           pod install
       - name: Set up provisioning profiles settings on Xcode project
-        script: xcode-project use-profiles
+        script: xcode-project use-profiles --custom-export-options='{"testFlightInternalTestingOnly": true}'
       - name: Increment build number
         script: | 
           cd $CM_BUILD_DIR
